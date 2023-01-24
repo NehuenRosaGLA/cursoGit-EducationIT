@@ -1,0 +1,2 @@
+Para tener acceso total del repositorio debemos hacer un fork. Lo que hace es hacer una copia en mi repositorio donde una
+vez que lo tengo puedo obtener lo necesario.
